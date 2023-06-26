@@ -11,3 +11,5 @@ Steps:
 5. Insert your OpenAI API key in the CustomGPT.py file.
 6. Run python file, this will initiate flask server.
 7. Run frontend using npm start.
+
+![Web App](customgpt-frontend/public/CustomGPT.png)
