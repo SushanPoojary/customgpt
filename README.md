@@ -4,7 +4,7 @@ Train GPT based on user file upload/input. This model is trained on Donald Knuth
 "gpt-3.5-turbo" is used.
 
 Steps:
-1. Replace or add multiple files(training data) in the docs folder located in the backend.
+1. Replace or add multiple files(training data) in the data folder located in the backend.
 2. Delete the index.json files in the main directory before running the flask server.
 3. Install backend dependencies using virtualenv and pip/pip3.
 4. Install frontend dependencies using npm i.
